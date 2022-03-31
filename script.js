@@ -3,7 +3,7 @@ const API_URL =
 
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280';
 const SEARCH_API =
-  'http://api.themoviedb.org/3/search/movie?api_key=dfd4c36a04b956a2d48d9b1607cbd58f&query="';
+  'https://api.themoviedb.org/3/search/movie?api_key=dfd4c36a04b956a2d48d9b1607cbd58f&query="';
 
 const form = document.getElementById('form');
 const search = document.getElementById('search');
